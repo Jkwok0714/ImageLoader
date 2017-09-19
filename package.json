@@ -1,0 +1,17 @@
+{
+  "name": "sequentialripper",
+  "version": "1.0.0",
+  "description": "Test Img DLer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server/run-server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "valid-url": "^1.0.9"
+  }
+}
