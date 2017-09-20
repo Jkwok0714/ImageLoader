@@ -11,5 +11,7 @@ Icon
 .Spotlight-V100
 .Trashes
 
+# Directories
 npm-debug.log
 node_modules
+DL
